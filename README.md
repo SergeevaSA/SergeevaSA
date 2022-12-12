@@ -24,4 +24,9 @@ Quality assurance engineer, with experience in testing WEB-applications, API, mo
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg " alt="bash " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg " alt="docker " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresq " width="40" height="40"/>&nbsp;
-<div/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresq " width="40" height="40"/>&nbsp;
+  <div/>
+
+  ---
+  ### 📑 My Stats :
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SergeevaSA&theme=dark&background=000000)](https://git.io/streak-stats)
