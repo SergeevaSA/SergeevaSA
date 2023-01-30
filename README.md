@@ -41,10 +41,13 @@ QA Fullstack (Java), with experience in testing WEB-applications, API, mobile ap
 - ДФУ «Интерактивный тренажёр SQL» (Stepik)
 
 ---
-  ### 📑 My CV
+  ### :briefcase: My portfolio:
+- CV
+- Manual testing
+- Test automation (Java)
 
 ---
-  ### :computer: My Stats :
+  ### :bookmark_tabs: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SergeevaSA&theme=dark&background=000000)](https://git.io/streak-stats)
