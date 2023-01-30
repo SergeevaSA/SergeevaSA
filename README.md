@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif?cid=6c09b9522c788e6cd78a37acf77cb28ae63bc49eea27cb68&rid=giphy.gif" width="250"/>
+</div>
 
 Svetlana Sergeeva,
 
