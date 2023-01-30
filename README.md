@@ -37,8 +37,8 @@ QA Fullstack (Java), with experience in testing WEB-applications, API, mobile ap
   ### :book:  My courses:
 - OTUS [«QA Engineer.Basic»]()
 - OTUS [«Java QA Engineer.Professional»]()
-- OTUS [«Ручное тестирование»]()
-- ДФУ [«Интерактивный тренажёр SQL»]() (Stepik)
+- OTUS [«Manual testing»]()
+- FEFU [«Interactive simulator SQL»](https://docs.google.com/viewer?url=https://stepik.org/certificate/f1ec2f4acdccc55c4dd1f9227a5b4f27f77deb8a.pdf "Необязательная подсказка") (Stepik)
 
 ---
   ### :briefcase: My portfolio:
