@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 
-QA Fullstack (Java), with experience in testing WEB-applications, API, mobile applications.
+QA Fullstack Engineer (Java), with experience in testing WEB-applications, API, mobile applications.
 
 <img src="https://komarev.com/ghpvc/?username=SergeevaSA&style=flat-square&color=blue" alt=""/>
 
