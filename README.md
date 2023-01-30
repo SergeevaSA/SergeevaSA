@@ -1,10 +1,10 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
 
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif?cid=6c09b9522c788e6cd78a37acf77cb28ae63bc49eea27cb68&rid=giphy.gif" width="250"/>
+  <img src="https://media3.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif?cid=6c09b9522c788e6cd78a37acf77cb28ae63bc49eea27cb68&rid=giphy.gif" width="200"/>
 </div>
 
-Svetlana Sergeeva,
+### Svetlana Sergeeva,
 
 <div id="badges">
 <a href="https://www.linkedin.com/in/svetlana-sergeeva-535ba0248/">
@@ -34,7 +34,17 @@ QA Fullstack (Java), with experience in testing WEB-applications, API, mobile ap
   <div/>
 
   ---
-  ### 📑 My Stats :
+  ### :book:  My courses:
+- OTUS «QA Engineer.Basic»
+- OTUS «Java QA Engineer.Professional»
+- OTUS «Ручное тестирование»
+- ДФУ «Интерактивный тренажёр SQL» (Stepik)
+
+---
+  ### 📑 My CV
+
+---
+  ### :computer: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SergeevaSA&theme=dark&background=000000)](https://git.io/streak-stats)
