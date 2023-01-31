@@ -9,7 +9,9 @@
 <div id="badges">
 <a href="https://www.linkedin.com/in/svetlana-sergeeva-535ba0248/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<a href="https://www.t.me/Lanaa_Alekseevna"> <img src="https://github.com/SergeevaSA/logo/blob/main/Telega.svg" alt="tg Badge"/> 
 </div>
+
 
 QA Fullstack Engineer (Java), with experience in testing WEB-applications, API, mobile applications.
 
@@ -51,3 +53,5 @@ QA Fullstack Engineer (Java), with experience in testing WEB-applications, API, 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SergeevaSA&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<img src="https://github-readme-stats.vercel.app/api?username=SergeevaSA">
