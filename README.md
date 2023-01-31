@@ -44,7 +44,7 @@ QA Fullstack Engineer (Java), with experience in testing WEB-applications, API, 
   ### :briefcase: My portfolio:
 - [CV]()
 - [Manual testing](https://github.com/SergeevaSA/QA-Engineer-Manual- "Необязательная подсказка")
-- [Test automation (Java)]()
+- [Test automation (Java)](https://github.com/SergeevaSA/QA-Engineer-Auto-Java- "Необязательная подсказка")
 
 ---
   ### :bookmark_tabs: My Stats :
