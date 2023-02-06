@@ -33,7 +33,9 @@ QA Fullstack Engineer (Java), with experience in testing WEB-applications, API, 
   <img src="https://github.com/SergeevaSA/logo/blob/main/IDEA-logo.svg" alt="IDEA " width="40" height="40"/>&nbsp;
   <img src="https://github.com/SergeevaSA/logo/blob/main/allure-ee-logo.svg" alt="allure" width="40" height="40"/>&nbsp;
   <img src="https://github.com/SergeevaSA/logo/blob/main/selenoid-logo.svg" alt="selenoid" width="40" height="40"/>&nbsp;
-  <div/>
+  <img src="https://github.com/SergeevaSA/logo/blob/main/Apache_Maven_logo.svg.png" alt="Maven" width="100" height="30"/>&nbsp;
+  <img src="https://github.com/SergeevaSA/logo/blob/main/postman-logo-5110850F84-seeklogo.com.png" alt="Postman" width="100" height="30"/>&nbsp;
+<div/>
 
   ---
   ### :book:  My courses:
