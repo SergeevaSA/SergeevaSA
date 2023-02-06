@@ -8,9 +8,9 @@
 
 <div id="badges">
 <a href="https://www.linkedin.com/in/svetlana-sergeeva-535ba0248/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="75" height="30"/>
-<a href="https://www.t.me/Lanaa_Alekseevna"> <img src="https://github.com/SergeevaSA/logo/blob/main/Telega.svg" alt="tg Badge "width="75" height="30"/> 
-<a href="mailto:s.a.sergeeva@inbox.ru"> <img src="https://img.shields.io/badge/email-darkblue?style=for-the-badge&logo=mail.ru&logoColor=white" alt="e-mail Badge" width="75" height="30"/> 
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="80" height="23"/>
+<a href="https://www.t.me/Lanaa_Alekseevna"> <img src="https://github.com/SergeevaSA/logo/blob/main/Telega.svg" alt="tg Badge "width="80" height="23"/> 
+<a href="mailto:s.a.sergeeva@inbox.ru"> <img src="https://img.shields.io/badge/email-darkblue?style=for-the-badge&logo=mail.ru&logoColor=white" alt="e-mail Badge" width="80" height="23"/> 
 </div>
 
 
