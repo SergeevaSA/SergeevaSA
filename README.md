@@ -13,13 +13,11 @@
 <a href="mailto:s.a.sergeeva@inbox.ru"> <img src="https://img.shields.io/badge/email-darkblue?style=for-the-badge&logo=mail.ru&logoColor=white" alt="e-mail Badge" width="80" height="23"/> 
 </div>
 
-
 QA Fullstack Engineer (Java), with experience in testing WEB-applications, API, mobile applications.
 
 <img src="https://komarev.com/ghpvc/?username=SergeevaSA&style=flat-square&color=blue" alt=""/>
 
 ---
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>&nbsp;
