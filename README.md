@@ -41,7 +41,9 @@ QA Fullstack Engineer (Java), with experience in testing WEB-applications, API, 
 - OTUS [«QA Engineer.Basic»](https://otus.ru/certificate/8460adc7a4904ebbaf868b432a2c9800/?cache=ctcd1 "Необязательная подсказка")
 - OTUS [«Java QA Engineer.Professional»]()
 - OTUS [«Manual testing»](https://otus.ru/certificate/d8b84750368c489bb0c47ded4f35d197/?cache=dhvkc "Необязательная подсказка")
+- Karpov.Courses [«Docker»]()
 - FEFU [«Interactive simulator SQL»](https://docs.google.com/viewer?url=https://stepik.org/certificate/f1ec2f4acdccc55c4dd1f9227a5b4f27f77deb8a.pdf "Необязательная подсказка") (Stepik)
+- Hexlet [«CLI fundamentals»]()
 
 ---
   ### :briefcase: My portfolio:
