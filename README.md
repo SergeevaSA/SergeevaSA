@@ -44,6 +44,7 @@ QA Fullstack Engineer (Java), with experience in testing WEB-applications, API, 
 - Karpov.Courses [«Docker»]()
 - FEFU [«Interactive simulator SQL»](https://docs.google.com/viewer?url=https://stepik.org/certificate/f1ec2f4acdccc55c4dd1f9227a5b4f27f77deb8a.pdf "Необязательная подсказка") (Stepik)
 - Hexlet [«CLI fundamentals»]()
+- [See all others courses](https://github.com/SergeevaSA/logo/blob/main/All%20other%20courses_SergeevaSA.docx)
 
 ---
   ### :briefcase: My portfolio:
